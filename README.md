@@ -37,5 +37,5 @@ Recommendations include offering long-term contracts or discounts for customers 
 
 7.Predictive System:
 
-Deployed a predictive system that provides churn probabilities for individual customers.
+Built a predictive system that provides churn probabilities for individual customers.
 Results help businesses make informed decisions to enhance customer retention.
