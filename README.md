@@ -1,4 +1,5 @@
 Customer Churn Prediction
+
 This project predicts customer churn for a telecom company using machine learning models. It involves data preprocessing, exploratory data analysis, and model training with hyperparameter tuning.
 
 Key aspects:
